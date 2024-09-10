@@ -26,3 +26,15 @@ This project is a clone of the YoungDevInterns website, created as part of my on
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/your-username/your-repository-name.git
+
+2. **Navigate to Project Directory:**
+
+   
+   cd your-repository-name
+   
+3.**Install Dependencies:**
+
+   npm install
+4.**Run the Development Server**
+
+      npm run dev
