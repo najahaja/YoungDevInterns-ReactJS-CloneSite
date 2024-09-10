@@ -11,6 +11,7 @@ import icon4 from "../assets/icon-4.png";
 import icon5 from "../assets/icon-5.png";
 import icon6 from "../assets/icon-6.png";
 import ab from "../assets/ab.jpg";
+import { Link } from 'react-router-dom';
 import im1 from "../assets/im-1.jpg";
 import im2 from "../assets/im-2.jpg";
 import im3 from "../assets/im-3.jpg";
@@ -51,12 +52,12 @@ const Home = () => {
             <h3 className={`text-4xl font-bold mt-2 px-48 py-4 ${animationClass}`}>
               EMPOWERING TOMORROW'S DEVELOPERS TODAY
             </h3>
-            <a
-              href="/internship"
+            <Link
+              to="/internship"
               className={`btn mt-4 bg-black hover:bg-[#8e44ad] text-white py-2 px-4 rounded ${animationClass}`}
             >
               Browse Internships
-            </a>
+            </Link>
           </div>
           <div
             className="absolute top-1/2 left-4 transform -translate-y-1/2 text-white cursor-pointer"
@@ -110,12 +111,12 @@ const Home = () => {
           <p className="text-lg text-black my-4">
             Welcome to YoungDev Interns – Your Gateway to Skill Development!
           </p>
-          <a
-            href="about.html"
+          <Link
+            to="/about"
             className="btn bg-black text-white py-2 px-6 hover:bg-[#8e44ad]"
           >
             Read More
-          </a>
+          </Link>
         </div>
       </section>
       <section className="index-packages bg-gray-200 py-16 px-20">
@@ -192,12 +193,12 @@ const Home = () => {
           </div>
         </div>
         <div className="text-center mt-8">
-          <a
-            href="/internship"
+          <Link
+            to="/internship"
             className="btn bg-black hover:bg-[#8e44ad] text-white py-2 px-4"
           >
             Browse More
-          </a>
+          </Link>
         </div>
       </section>
       <section className="index-offer text-center py-16 px-10">
