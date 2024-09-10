@@ -34,7 +34,7 @@ This project is a clone of the YoungDevInterns website, created as part of my on
    
 3.**Install Dependencies:**
 
-   npm install
+      npm install
    
 4.**Run the Development Server**
 
