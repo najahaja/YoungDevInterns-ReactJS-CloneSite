@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import homeimage1 from '../assets/home-slide-1.jpg';
 import homeimage2 from '../assets/home-slide-2.jpg';
 import homeimage3 from '../assets/hom-slide-3.jpg';
-import Footer from './footer';
+import Footer from './Footer';
 import icon1 from "../assets/icon-1.png";
 import icon2 from "../assets/icon-2.png";
 import icon3 from "../assets/icon-3.png";

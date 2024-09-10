@@ -1,7 +1,8 @@
 import React from 'react';
 import headerimage from "../assets/header-bg-1.png";
 import about from "../assets/ab.jpg";
-import Footer from './footer';
+import Footer from './Footer';
+
 const About = () => {
   return (
     <div>
