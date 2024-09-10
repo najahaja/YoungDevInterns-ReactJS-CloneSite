@@ -2,7 +2,7 @@
 # YoungDevInterns Clone
 
 
-![YoungDevInterns Clone Screenshot](assets/screenshot.png)
+![YoungDevInterns Clone Screenshot](src/assets/screenshot.png)
 ## Description
 
 This project is a clone of the YoungDevInterns website, created as part of my on-site internship. The clone replicates the original site using modern web development technologies. 
