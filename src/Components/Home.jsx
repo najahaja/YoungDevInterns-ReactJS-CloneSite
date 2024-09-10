@@ -52,7 +52,7 @@ const Home = () => {
               EMPOWERING TOMORROW'S DEVELOPERS TODAY
             </h3>
             <a
-              href="internship"
+              href="/internship"
               className={`btn mt-4 bg-black hover:bg-[#8e44ad] text-white py-2 px-4 rounded ${animationClass}`}
             >
               Browse Internships
