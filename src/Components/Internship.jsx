@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import head2 from "../assets/header-bg-2.png";
-import Footer from './footer';
+import Footer from './Footer';
 import im1 from "../assets/im-1.jpg";
 import im2 from "../assets/im-2.jpg";
 import im3 from "../assets/im-3.jpg";
